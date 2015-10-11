@@ -57,4 +57,5 @@ def call():
     """
     return service()
 
-
+def plain_map():
+    return {"center": (40.7678379,-73.98619), "zoom": 15}
